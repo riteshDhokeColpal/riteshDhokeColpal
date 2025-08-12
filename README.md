@@ -8,7 +8,6 @@
 
 #### More stats about me :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshDhokeColpal&layout=compact)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshDhokeColpal&show_icons=true)
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
