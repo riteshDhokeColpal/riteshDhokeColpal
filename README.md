@@ -6,6 +6,8 @@
 - 💻 I enjoy building web applications and solving real-world problems with code.
 - 🌱 Currently exploring new technologies.
 
+#### :stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshDhokeColpal&layout=compact)
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
