@@ -3,7 +3,8 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-- 
+- 💻 I enjoy building web applications and solving real-world problems with code.
+- 🌱 Currently exploring new technologies.
 
 
 #### :hammer_and_wrench: Languages and Tools :
